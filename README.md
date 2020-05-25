@@ -17,3 +17,5 @@ classes: 47 (balanced)
 The app is written totally in Kotlin and also uses Tensorflow Lite library for android. Link: https://play.google.com/store/apps/details?id=com.shway.character
 
 # Screenshots
+<img src="Screenshots/1.png" width="30%">
+<img src="Screenshots/9.png" width="30%">
